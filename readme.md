@@ -1,3 +1,5 @@
+## This software has been removed due to request
+
 # YOU NEED A XBOX GAMEPASS ULTIMATE MEMBERSHIP TO PLAY/USE THE XCLOUD SERVICE (Not needed for Fortnite)
 
 # XCloud Client made in C#
